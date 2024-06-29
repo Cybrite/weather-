@@ -1,1 +1,1 @@
-Used OpenWeatherAPI and HTML,CSS,JAVASCRIPT. 
+Generic weather App Using OpenWeatherAPI and HTML,CSS,JAVASCRIPT. 
